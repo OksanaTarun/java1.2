@@ -13,7 +13,7 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* <a href="https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md>Руководство по установке IntelliJ IDEA</a>
+* <a href="https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md">Руководство по установке IntelliJ IDEA</a>
 * код: 
   
        public class Main {
